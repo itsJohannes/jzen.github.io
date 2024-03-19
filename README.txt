@@ -11,7 +11,6 @@ Data Aggregation: It aggregates cleaned data from multiple Excel sheets into a s
 Profession Standardization: Similar professions with different names are standardized under common labels for better comparison and analysis.
 Unemployment Rate Extraction: The project extracts unemployment rates for each standardized profession from the cleaned datasets and organizes them into the aggregated DataFrame.
 Data Export: The aggregated dataset can be exported to a CSV file for further analysis using other tools or platforms.
-Usage
 
 Run the Script:
 - Ensure Python 3.x and required libraries are installed (Pandas, NumPy).
