@@ -6,8 +6,8 @@ Overview
 This project aims to analyze unemployment data from multiple sheets within an Excel file and consolidate it into a single dataset for easy analysis. The project involves cleaning and processing data from multiple Excel sheets, organizing it into a unified format, and performing analytical tasks on the aggregated dataset.
 
 Features
-Data Cleaning: The project includes routines to clean raw data extracted from Excel files, removing unnecessary rows and columns, and ensuring consistency across different datasets.
-Data Aggregation: It aggregates cleaned data from multiple Excel files into a single Pandas DataFrame, facilitating easy analysis and visualization.
+Data Cleaning: The project includes routines to clean raw data extracted from Excel sheets, removing unnecessary rows and columns, and ensuring consistency across different datasets.
+Data Aggregation: It aggregates cleaned data from multiple Excel sheets into a single Pandas DataFrame, facilitating easy analysis and visualization.
 Profession Standardization: Similar professions with different names are standardized under common labels for better comparison and analysis.
 Unemployment Rate Extraction: The project extracts unemployment rates for each standardized profession from the cleaned datasets and organizes them into the aggregated DataFrame.
 Data Export: The aggregated dataset can be exported to a CSV file for further analysis using other tools or platforms.
