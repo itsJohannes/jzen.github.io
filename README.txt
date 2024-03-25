@@ -24,7 +24,7 @@ The aggregated dataset will be stored in a CSV file named bp_ledighed_data.csv
 Use this CSV file for further analysis using Python, Excel, R, or other data analysis tools.
 
 Requirements
-- Python 3.x
+- Python 3.12
 - Pandas
 - Pickle
 
