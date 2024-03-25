@@ -3,6 +3,7 @@ The script is designed for a specific dataset that is confidential.
 
 Unemployment Data Analysis
 Overview
+This project was created for an exam project at Copenhagen Business School.
 This project aims to analyze unemployment data from multiple sheets within an Excel file and consolidate it into a single dataset for easy analysis. The project involves cleaning and processing data from multiple Excel sheets, organizing it into a unified format, and performing analytical tasks on the aggregated dataset.
 
 Features
